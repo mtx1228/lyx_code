@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "serial.h": "c",
+        "freertos.h": "c",
+        "partest.h": "c",
+        "task.h": "c",
+        "semphr.h": "c",
+        "event_groups.h": "c"
+    }
+}

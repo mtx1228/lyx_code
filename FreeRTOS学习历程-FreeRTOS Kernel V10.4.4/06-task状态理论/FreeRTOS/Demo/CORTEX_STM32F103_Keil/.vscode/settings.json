@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "serial.h": "c",
+        "freertos.h": "c",
+        "stm32f10x_it.h": "c"
+    }
+}
